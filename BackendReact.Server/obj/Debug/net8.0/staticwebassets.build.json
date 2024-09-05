@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "fvupRcSr3Su1hS/RJDMd7ozr9FLHSQgK6ueXwIN4TTs=",
+  "Source": "BackendReact.Server",
+  "BasePath": "_content/BackendReact.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\torso\\source\\repos\\BackendReact\\backendreact.client\\backendreact.client.esproj",
+      "Version": 2,
+      "Source": "backendreact.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

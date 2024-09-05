@@ -1,0 +1,12 @@
+C:\Users\torso\source\repos\BackendReact\NEGOCIO\bin\Debug\net8.0\NEGOCIO.deps.json
+C:\Users\torso\source\repos\BackendReact\NEGOCIO\bin\Debug\net8.0\NEGOCIO.dll
+C:\Users\torso\source\repos\BackendReact\NEGOCIO\bin\Debug\net8.0\NEGOCIO.pdb
+C:\Users\torso\source\repos\BackendReact\NEGOCIO\obj\Debug\net8.0\NEGOCIO.csproj.AssemblyReference.cache
+C:\Users\torso\source\repos\BackendReact\NEGOCIO\obj\Debug\net8.0\NEGOCIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\torso\source\repos\BackendReact\NEGOCIO\obj\Debug\net8.0\NEGOCIO.AssemblyInfoInputs.cache
+C:\Users\torso\source\repos\BackendReact\NEGOCIO\obj\Debug\net8.0\NEGOCIO.AssemblyInfo.cs
+C:\Users\torso\source\repos\BackendReact\NEGOCIO\obj\Debug\net8.0\NEGOCIO.csproj.CoreCompileInputs.cache
+C:\Users\torso\source\repos\BackendReact\NEGOCIO\obj\Debug\net8.0\NEGOCIO.dll
+C:\Users\torso\source\repos\BackendReact\NEGOCIO\obj\Debug\net8.0\refint\NEGOCIO.dll
+C:\Users\torso\source\repos\BackendReact\NEGOCIO\obj\Debug\net8.0\NEGOCIO.pdb
+C:\Users\torso\source\repos\BackendReact\NEGOCIO\obj\Debug\net8.0\ref\NEGOCIO.dll

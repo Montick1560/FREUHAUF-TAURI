@@ -1,0 +1,1 @@
+C:\Users\torso\source\repos\BackendReact\backendreact.client\obj\Debug\backendreact.client.esproj.CoreCompileInputs.cache
